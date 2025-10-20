@@ -1,3 +1,9 @@
+# grblHAL driver for BTT-SKR-1.4-based CNC router in Warsztat Miejski
+
+More information (in Polish): https://github.com/warsztatmiejski/frezarka_cnc
+
+Original README (outdated and not very usefull even upstream) follows:
+
 ## LPC176x grblHAL driver
 
 A GrblHAL driver for NXP LPC1768 and LPC1769 processors.
